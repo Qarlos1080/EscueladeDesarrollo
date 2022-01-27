@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -69,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Everteca
 Desarrollo de la escuela de formación PHP
 >>>>>>> 00ed372c834163411a5651db3a3e9035279eef09
+=======
+# EscueladeDesarrollo
+Desarrollo de actividades php.
+>>>>>>> eb5f9bdd47751085474128ddaff1668391a1adee
